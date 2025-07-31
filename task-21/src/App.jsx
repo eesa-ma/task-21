@@ -2,7 +2,7 @@ import Card from './Card.jsx'
 
 function App() {
   return (
-    <>
+    <> 
       <div className="m-20">
         <h1 className="bg-clip-text text-transparent lg bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500 text-center text-2xl font-extrabold mb-10">All the cards are here.</h1>
         <div className="flex flex-wrap justify-center gap-20">
